@@ -1,0 +1,1 @@
+{"ename":"Niranjan","age":"23","city":"Bangalore","sal":"10000"}*{"ename":"Anushka","age":"25","city":"Hyderabd","sal":"40000"}*{"ename":"Jeff","age":"67","city":"Bhopal","sal":"46576"}*{"ename":"Neha","age":"30","city":"Jaipur","sal":"30000"}*{"ename":"Ayesha","age":"67","city":"Pune","sal":"46576"}
